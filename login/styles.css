@@ -1,0 +1,64 @@
+body{
+	background: #3374AF;
+	font-family: arial;
+}
+#panel{
+	margin-left:707px;
+}
+#panel1{
+	background-color: #E2E2E2;
+   	border-radius: 7px;
+    	width: 400px;
+    	height: 300px;
+    	padding: 5px 30px 5px 30px;
+	margin-top: 150px;
+}
+#panel2{
+	background-color: #C4C4C4;
+   	border-radius: 7px;
+    	width: 400px;
+    	height: 150px;
+    	padding: 5px 30px 5px 30px;
+}
+.auth{
+	margin-top:25px;
+	margin-left:-5px;
+}
+button{
+	display: inline-block;
+    	background: #4286C3;
+    	border: solid 1px black;
+	text-align: center;
+}
+button:hover{
+	background-color:#174E80;
+}
+#loginadmin{
+	margin-left:127px;
+	margin-top:7px;
+	width: 175px;
+	height: 35px;
+}
+.p2{
+	margin-left: 217px;
+	margin-top:-125px;
+}
+#log_in{
+	margin-left:-53px;
+	width:150px;
+	height:35px;
+}
+#cancel{
+	margin-top:25px;
+}
+#cancel:hover{
+	cursor: pointer;
+}
+.text{
+	font-size:13px;
+}
+input{
+	margin-top:30px;
+	width: 300px;
+	height: 35px;
+}

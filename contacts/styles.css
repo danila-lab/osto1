@@ -1,0 +1,67 @@
+#panel{
+	background: #3374AF;
+	 width: 100%; 
+	 height: 80px;
+	 display: inline-block;
+}
+body{
+	margin-top:0px;
+	margin-left:0px;
+	margin-right:0px;
+}
+#menu{
+	margin-top:12px;
+	margin-left:2%;
+	margin-right:2%;
+}
+#bell{
+	margin-left:25px;
+}
+#bell:hover{
+	cursor: pointer;
+}
+#logo{
+    background-color: #AAA4F5;
+    border-radius: 50px;
+    width: 90px;
+    height: 40px;
+    padding: 5px 30px 5px 30px;
+}
+#logoname{
+	margin-top:12px;
+	font-weight: bold;
+}
+button{
+	margin-left:50px;
+	margin-top:3px;
+	display: inline-block;
+    	background: #F0E4B9;
+    	border: solid 1px black;
+	text-align: center;
+    	width: 100px;
+	height: 35px;
+}
+#btext{
+	margin-top:7px;
+}
+button:hover{
+	background-color:#EEC32A;
+}
+.textcontacts{
+	margin-top:150px;
+	margin-left:500px;
+	font-family: arial;
+	font-size: 20px;
+}
+.imgc{
+	margin-top:-50px;
+	margin-right:335px;
+}
+pre{
+	font-family: arial;
+	font-size: 20px;
+}
+#profile{
+	margin-top:-56px;
+	margin-left:325px;
+}
